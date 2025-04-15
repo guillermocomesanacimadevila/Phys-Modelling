@@ -1,7 +1,7 @@
 ##############################################################
 # Biomarker Data Pipeline: Human Performance & Recovery Study
-# Author: Guillermo Comesaña | 2025
-# BSc Sport & Exercise Science Dissertation
+# Author: Guillermo Comesaña | 2023
+# BSc Dissertation
 # Reproducible R Pipeline: Data Exploration, Modelling, Clustering
 ##############################################################
 
